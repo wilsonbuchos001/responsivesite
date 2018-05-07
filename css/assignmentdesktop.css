@@ -1,0 +1,96 @@
+body {
+	margin: 0;
+	background-image: url(../img/background.jpg);
+}
+.maindiv {
+	width: 100%;
+	height: auto;
+}
+#img1{
+ 	text-align: center;
+	height: 8vh;
+	display: block;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	margin-left: 47.6%; 
+}
+#image1 {
+	height: 100%;
+	width: 47%;
+	display: inline-block;
+	margin-right: 5%;
+}
+#p1 {
+	color: #fff;
+	width:  47%;
+	display: inline-block;
+	margin-top: 15px;
+	font-size: 1.781vw;
+}
+#quad2{
+	margin-top: 15px;
+}
+#img2{
+ 	text-align: center;
+	height: 8vh;
+	display: block;
+	margin-left: 47.6%; 
+}
+#image2 {
+	height: 100%;
+	width: 47%;
+	display: inline-block;
+	margin-top: 20px;
+}
+#p2 {
+	color: #fff;
+	width:  47%;
+	display: inline-block;
+	font-size: 1.781vw;
+	margin-right: 5%;
+}
+#quad3 {
+	margin-top:20px;
+}
+#img3{
+ 	text-align: center;
+	height: 8vh;
+	display: block;
+	margin-left: 47.6%; 
+}
+#image3 {
+	height: 100%;
+	width: 47%;
+	display: inline-block;
+	margin-right: 5%;
+}
+#p3 {
+	color: #fff;
+	width:  47%;
+	display: inline-block;
+	font-size: 1.781vw;
+	margin-top: 40px;
+}
+#quad4{
+	margin-top: 25px;
+	}
+#img4{
+ 	text-align: center;
+	height: 8vh;
+	display: block;
+	margin-left: 47.6%; 
+	margin-bottom: 15px;
+}
+#image4 {
+	height: 100%;
+	width: 47%;
+	display: inline-block;
+	margin-top: 10px;
+}
+#p4 {
+	color: #fff;
+	width:  47%;
+	display: inline-block;
+	font-size: 1.781vw;
+	margin-right: 5%;
+}
