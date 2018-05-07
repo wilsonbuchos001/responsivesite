@@ -1,0 +1,87 @@
+body {
+	margin: 0;
+	background-image: url(../img/background.jpg);
+}
+.maindiv {
+	width: 100%;
+	height: auto;
+}
+#quad1 {
+	width: 100%;
+}
+#img1{
+ 	text-align: center;
+	height: 8vh;
+	display: block;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	margin-left: 44.6%;
+}
+#image1 {
+	display:none;
+}
+#p1 {
+	color: #fff;
+	width:  100%;
+	font-size: 5vw;
+}
+#quad2 {
+	width: 100%;
+}
+#img2{
+ 	text-align: center;
+	height: 8vh;
+	display: block;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	margin-left: 44.6%;
+}
+#image2 {
+	display:none;
+}
+#p2 {
+	color: #fff;
+	width:  100%;
+	font-size: 5vw;
+}
+#quad3 {
+	margin-top: 20px;
+	width: 100%;
+}
+#img3{
+ 	text-align: center;
+	height: 8vh;
+	display: block;
+	margin-bottom: 10px;
+	margin-left: 44.6%;
+}
+#image3 {
+	display:none;
+}
+#p3 {
+	margin-top: 1px;
+	color: #fff;
+	width:  100%;
+	font-size: 5vw;
+}
+#quad4 {
+	width: 100%;
+}
+#img4{
+ 	text-align: center;
+	height: 8vh;
+	display: block;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	margin-left: 44.6%;
+}
+#image4 {
+	display:none;
+}
+#p4 {
+	color: #fff;
+	width:  100%;
+	font-size: 5vw;
+	margin-top: 20px;
+}
+
